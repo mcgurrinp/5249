@@ -1,2 +1,3 @@
-# 5249
- Squarebot 2 Main Method
+# 5249P
+ Squarebot 2 Code
+ By: Patrick McGurrin
